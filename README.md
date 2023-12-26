@@ -1,4 +1,4 @@
-# StockTrading
+# Stock Trading
 
 This is a custom environment for the DeepAI Gym library that simulates stock trading using historical stock price data. It allows an agent to learn how to make profitable trades based on technical indicators and market conditions. The environment supports both single-stock and multi-stock trading and provides various configuration options for hyperparameter tuning.
 
